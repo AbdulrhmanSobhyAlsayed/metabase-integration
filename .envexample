@@ -1,0 +1,5 @@
+LOGIN_USERNAME=metabase@email.com
+LOGIN_PASSWORD=123456
+MYSQL_DATABASE_NAME=production
+COLLECTION_SLUG=personal_collection
+BASE_URL=http://localhost:3000/api
